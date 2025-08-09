@@ -27,9 +27,8 @@ Para visualizar e rodar este projeto localmente, siga estes passos simples:
 
 1.  **Clone o repositório para sua máquina local:**
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Gabbfernyh/Linktree2
     ```
-    *(Lembre-se de substituir `seu-usuario` e `nome-do-repositorio` pelos seus dados)*
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
