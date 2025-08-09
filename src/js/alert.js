@@ -46,7 +46,7 @@ function portifolioAlert(event) {
 
 function linktreeAlert() {
     setTimeout(() => {
-        createNotification("Olá!!, Bem-vindo que bom vê-lo aqui, espero que possa me encontrar!!😉");
+        createNotification("Olá!!, Bem-vindo!!, que bom vê-lo aqui, espero que possa me encontrar!!😉");
     }, 100);
 }
 
