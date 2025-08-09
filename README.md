@@ -2,7 +2,7 @@
 
 Este projeto é uma solução para o desafio [Social links profile do Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Foi desenvolvido em 3 dias como uma forma de aprimorar uma página de links pessoais (estilo Linktree) e praticar habilidades de desenvolvimento front-end.
 
-![Uma prévia do design do projeto em um desktop](./docs/src/assets/images/prev.png)
+![Uma prévia do design do projeto em um desktop](./src/assets/images/prev.png)
 
 ## 📝 Descrição do Projeto
 
