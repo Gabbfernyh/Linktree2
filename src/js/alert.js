@@ -1,5 +1,5 @@
 // Função para criar notificação temporária com barra de progresso
-function createNotification(message, duration = 3000) {
+function createNotification(message, duration = 5000) {
     // Criar elemento de notificação
     const notification = document.createElement('div');
     notification.className = 'custom-notification';
