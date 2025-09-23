@@ -40,7 +40,7 @@ function linkedinAlert(event) {
 function portifolioAlert(event) {
     event.preventDefault();
     setTimeout(() => {
-        createNotification("Ops!!, esta pagina ainda não esta ativa, aguarde o lançamento!!.");
+        createNotification("Ops!!, esta pagina ainda não esta ativa, aguarde o lançamento, estamos proximos dele!!.");
     }, 100);
 }
 
