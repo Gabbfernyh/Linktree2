@@ -30,12 +30,12 @@ function createNotification(message, duration = 5000) {
     }, duration);
 }
 // Substituir alerts originais
-function linkedinAlert(event) {
-    event.preventDefault();
-    setTimeout(() => {
-        createNotification("Ops!!, esta pagina ainda não esta ativa, aguarde 2026.");
-    }, 100);
-}
+// function linkedinAlert(event) {
+//     event.preventDefault();
+//     setTimeout(() => {
+//         createNotification("Ops!!, esta pagina ainda não esta ativa, aguarde o lançamento, estamos proximos dele!!.");
+//     }, 100);
+// }
 
 // function portifolioAlert(event) {
 //     event.preventDefault();
@@ -43,6 +43,7 @@ function linkedinAlert(event) {
 //         createNotification("Ops!!, esta pagina ainda não esta ativa, aguarde o lançamento, estamos proximos dele!!.");
 //     }, 100);
 // }
+// onclick="portifolioAlert(event)"
 
 function linktreeAlert() {
     setTimeout(() => {
